@@ -1,0 +1,564 @@
+#EXTM3U
+#EXTINF:0,A+ SD
+#EXTVLCOPT:network-caching=1000
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:0,A+2 SD
+#EXTVLCOPT:network-caching=1000
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:0,EL TRECE 
+#EXTVLCOPT:network-caching=1000
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
+#EXTINF:0,***********ETRETENIMIENTO 1*********
+
+#EXTINF:0,Univision
+#EXTVLCOPT:network-caching=1000
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:0,Unimas
+#EXTVLCOPT:network-caching=1000
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0, sun Channel
+#EXTVLCOPT:network-caching=1000
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:0,EXTINF:0 type="favorites" channelId="-1" tvg-logo="https://f5.com/Portals/1/Users/036/92/141092/logo-mlb-network.png", MLB
+#EXTVLCOPT:network-caching=1000
+EXTINF:0%20type=%22favorites%22%20channelId=%22-1%22%20tvg-logo=%22https://f5.com/Portals/1/Users/036/92/141092/logo-mlb-network.png%22,%20MLB
+#EXTVLCOPT:network-caching=1000
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0, Canal 2
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/1.m3u8
+#EXTINF:0, FOROtv
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2001.m3u8
+#EXTINF:0, Canal 5
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/294.m3u8
+#EXTINF:0, Azteca 7
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/720.m3u8
+#EXTINF:0, Gala TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/129.m3u8
+#EXTINF:0, Once TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/35.m3u8
+#EXTINF:0, Azteca 13
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/26.m3u8
+#EXTINF:0, AZ Corazon
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=AZCORAZON_HD&token=654123_394.m3u8
+#EXTINF:0, Az Mundo
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=AZMUNDO_HD&token=654123_1381.m3u8
+#EXTINF:0, Canal 22
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/32.m3u8
+#EXTINF:0, TV Mexiquense
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2041.m3u8
+#EXTINF:0, Proyecto 40
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2003.m3u8
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=ANIMAL_PLANET_HD&token=654123_114.m3u8
+#EXTINF:0, Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=CANAL_UNO_HD&token=654123_2077.m3u8
+#EXTINF:0, Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_WORLD_HD&token=654123_226.m3u8
+#EXTINF:0, Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_CHANNEL_HD&token=654123_40.m3u8
+#EXTINF:0, Discovery Civilization
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISCOVERY_CIVILIZATION&token=654123_287.m3u8
+#EXTINF:0, Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISCOVERY_SCIENCE&token=654123_288.m3u8
+#EXTINF:0, Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISCOVERY_TURBO&token=654123_289.m3u8
+#EXTINF:0, Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_THEATER_HD&token=654123_290.m3u8
+#EXTINF:0, Discovery Home and Health
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_HOME_HEALTH_HD&token=654123_292.m3u8
+#EXTINF:0, H2
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=H2&token=654123_576.m3u8
+#EXTINF:0, History HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HISTORY_CHANNEL_HD&token=654123_270.m3u8
+#EXTINF:0, History
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/351.m3u8
+#EXTINF:0, National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEO_HD&token=654123_50.m3u8
+#EXTINF:0, Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=NATGEO_WILD_HD&token=654123_225.m3u8
+#EXTINF:0, RAI
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=RAI&token=654123_2794.m3u8
+#EXTINF:0, Sun Channel
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2034.m3u8
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=TLC_HD&token=654123_833.m3u8
+#EXTINF:0, WOBI
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/903.m3u8
+#EXTINF:0, A+
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2020.m3u8
+#EXTINF:0, Acustik
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2100.m3u8
+#EXTINF:0, Antena 3
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=ANTENA3&token=654123_77.m3u8
+#EXTINF:0, Caracol HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CARACOL_HD&token=654123_989.m3u8
+#EXTINF:0, Caracol Int
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=CARACOL_INT&token=654123_990.m3u8
+#EXTINF:0, City TV
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=CITY_TV&token=654123_2795.m3u8
+#EXTINF:0, DHE
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DHE_HD&token=654123_2756.m3u8
+#EXTINF:0, E
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=E&token=654123_215.m3u8
+#EXTINF:0, Garage TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/760.m3u8
+#EXTINF:0, El 4
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2036.m3u8
+#EXTINF:0, ElGourmet
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=GOURMET_HD&token=654123_312.m3u8
+#EXTINF:0, FM Hot
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2765.m3u8
+#EXTINF:0, Hola TV HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HOLA_TV_HD&token=654123_1209.m3u8
+#EXTINF:0, La Sexta
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2004.m3u8
+#EXTINF:0, Lifetime
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/149.m3u8
+#EXTINF:0, Mega ES
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2767.m3u8
+#EXTINF:0, Mundo Auto TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2093.m3u8
+
+
+#EXTINF:0,***********INFANTIL*********
+
+
+#EXTINF:0, Anime TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/965.m3u8
+#EXTINF:0, Baby TV
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=BABYTV&token=654123_1381.m3u8
+#EXTINF:0, Boomerang
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=BOOMERANG&token=654123_224.m3u8
+#EXTINF:0, Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CARTOON_NETWORK_HD&token=654123_36.m3u8
+#EXTINF:0, Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_KIDS_HD&token=654123_45.m3u8
+#EXTINF:0, Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISNEY_HD&token=654123_41.m3u8
+#EXTINF:0, Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISNEY_JR&token=654123_89.m3u8
+#EXTINF:0, Disney XD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISNEY_XD&token=654123_123.m3u8
+#EXTINF:0, Locomotion
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2022.m3u8
+#EXTINF:0, Nick 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NICK_2_HD&token=654123_1989.m3u8
+#EXTINF:0, NatGeo Kids
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEO_KIDS_HD&token=654123_2753.m3u8
+#EXTINF:0, NatGeo Kids Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEOKIDS_MX_HD&token=654123_2757.m3u8
+#EXTINF:0, Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NICKELODEON_HD&token=654123_44.m3u8
+#EXTINF:48, Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/222.m3u8
+#EXTINF:0, NickToons
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/310.m3u8
+#EXTINF:0, Niu Media
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2080.m3u8
+#EXTINF:0, TIIN
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/208.m3u8
+#EXTINF:0, Tooncast
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=TOONCAST&token=654123_131.m3u8
+
+#EXTINF:0,***********ENTRETENIMIENTO*********
+
+#EXTINF:0, AMC HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=AMC_HD&token=654123_232.m3u8
+#EXTINF:0, AE MUNDO HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=AE_MUNDO_HD&token=654123_323.m3u8
+#EXTINF:0, AE HD
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/221.m3u8
+#EXTINF:0, AXN HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=AXN_HD&token=654123_321.m3u8
+#EXTINF:0, Atreseries
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/1533.m3u8
+#EXTINF:0, Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=COMEDY_CENTRAL_HD&token=654123_284.m3u8
+#EXTINF:0, Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/181.m3u8
+#EXTINF:0, Fox
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_HD&token=654123_3.m3u8
+#EXTINF:0, Fox Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXMX_HD&token=654123_4.m3u8
+#EXTINF:0, Fox Life
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_LIFE_HD&token=654123_214.m3u8
+#EXTINF:0, FX HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FX_HD&token=654123_325.m3u8
+#EXTINF:0, FX Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FXMX_HD&token=654123_2763.m3u8
+#EXTINF:0, Investigation Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=ID_HD&token=654123_291.m3u8
+#EXTINF:0, Neox
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2025.m3u8
+#EXTINF:0, Sony HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=SONY_HD&token=654123_22.m3u8
+#EXTINF:0, TBS veryfunny
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=TBS_HD&token=654123_286.m3u8
+#EXTINF:0, TNT Series
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=TNT_SERIES_HD&token=654123_200.m3u8
+#EXTINF:0, TruTV
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=TRU_TV_HD&token=654123_320.m3u8
+#EXTINF:0, Warner HD
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/327.m3u8
+#EXTINF:0, Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=WARNER_HD&token=654123_21.m3u8
+#EXTINF:0, Universal Channel
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=UNIVERSAL_CHANNEL&token=654123_344.m3u8
+
+#EXTINF:0,***********MOVIES*********
+
+#EXTINF:0, HBO HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_HD&token=654123_823.m3u8
+#EXTINF:0, HBO HD Sub
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_HD_SUB&token=654123_824.m3u8
+#EXTINF:0, HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_2_HD&token=654123_832.m3u8
+#EXTINF:0, HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_PLUS_HD&token=654123_831.m3u8
+#EXTINF:0, HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_FAMILY_HD&token=654123_849.m3u8
+#EXTINF:0, HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_SIGNATURE_HD&token=654123_894.m3u8
+#EXTINF:0, MAX Prime
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=MAX_PRIME_HD&token=654123_1311.m3u8
+#EXTINF:0, Max UP
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=MAX_UP_HD&token=654123_912.m3u8
+#EXTINF:0, Fox Action HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXACTION_HD&token=654123_217.m3u8
+#EXTINF:0, Fox Action Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_ACTION_MEXICO_HD&token=654123_1461.m3u8
+#EXTINF:0, Fox Cinema
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CINEMA_HD&token=654123_230.m3u8
+#EXTINF:0, Fox Cinema Sub
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CINEMA_HD_SUB&token=654123_2764.m3u8
+#EXTINF:0, Fox Classics
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CLASSICS_HD&token=654123_228.m3u8
+#EXTINF:0, FOX Family HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXFAMILY_HD&token=654123_229.m3u8
+#EXTINF:0, FOX Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_COMEDY_HD&token=654123_1306.m3u8
+#EXTINF:0, Fox Movies HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXMOVIES_HD&token=654123_305.m3u8
+#EXTINF:0, Fox Premium Series
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX1_HD&token=654123_379.m3u8
+#EXTINF:0, Fox Premium Series Sub
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX1_HD_SUB&token=654123_380.m3u8
+#EXTINF:0, Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CINECANAL_HD&token=654123_111.m3u8
+#EXTINF:0, CineLatino
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=CINELATINO&token=654123_850.m3u8
+#EXTINF:0, Cinema Dinamita
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=CINEMA_DINAMITA&token=654123_2098.m3u8
+#EXTINF:0, Cinemax
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=CINEMAX&token=654123_1385.m3u8
+#EXTINF:0, De Pelicula
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DEPELICULA&token=654123_365.m3u8
+#EXTINF:0, ExtremaTV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2023.m3u8
+#EXTINF:0, FXM
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=THE_FILM_ZONE_HD&token=654123_220.m3u8
+#EXTINF:0, Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/179.m3u8
+#EXTINF:0, Golden
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=GOLDEN_HD&token=654123_231.m3u8
+#EXTINF:0, Golden Premier HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=GOLDEN_PREMIER_HD&token=654123_2797.m3u8
+#EXTINF:0, ISat
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=ISAT&token=654123_301.m3u8
+#EXTINF:0, Multipremier
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=MULTIPREMIER&token=654123_2046.m3u8
+#EXTINF:0, Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=PARAMOUNT_HD&token=654123_640.m3u8
+#EXTINF:0, Space
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=SPACE_HD&token=654123_14.m3u8
+#EXTINF:0, Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=STUDIO_UNIVERSAL&token=654123_233.m3u8
+#EXTINF:0, Sundance Channel
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=SUNDANCE_HD&token=654123_1464.m3u8
+#EXTINF:0, SyFy
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/211.m3u8
+#EXTINF:0, TCM
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=TCM&token=654123_234.m3u8
+#EXTINF:0, TNT HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=TNT_HD&token=654123_302.m3u8
+#EXTINF:0, TNT
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/31.m3u8
+#EXTINF:0,Cine On Demand
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
+
+
+
+#EXTINF:0,***********DEPORTES*********
+
+#EXTINF:0, Bein Sports ES
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2769.m3u8
+#EXTINF:0, Bein Sports 11
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2784.m3u8
+#EXTINF:0, Bein Sports 12
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2785.m3u8
+#EXTINF:0, Bein Sports 13
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2786.m3u8
+#EXTINF:0, Chelsea TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2783.m3u8
+#EXTINF:0, CDN Sports Max
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2087.m3u8
+#EXTINF:0, Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CLARO_SPORTS_LATAM_HD&token=654123_2030.m3u8
+#EXTINF:0, Claro Sports Colombia
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CLARO_SPORTS_COL_HD&token=654123_2029.m3u8
+#EXTINF:0, DirecTV Sports 2
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2768.m3u8
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=ESPN_HD&token=654123_408.m3u8
+#EXTINF:0, ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=ESPN_2_HD&token=654123_1387.m3u8
+#EXTINF:0, ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=ESPN_3_HD&token=654123_330.m3u8
+#EXTINF:0, ESPN PLUS
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=ESPN_PLUS_HD&token=654123_331.m3u8
+#EXTINF:0, EuroSport
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2776.m3u8
+#EXTINF:0, EuroSport 2
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2777.m3u8
+#EXTINF:0, F1 Latin America
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/847.m3u8
+#EXTINF:0, Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_SPORTS_HD&token=654123_57.m3u8
+#EXTINF:0, Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_SPORTS2_HD&token=654123_333.m3u8
+#EXTINF:0, Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_SPORTS3_HD&token=654123_2086.m3u8
+#EXTINF:0, Fox Sports Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXSP1_MX_HD&token=654123_2760.m3u8
+#EXTINF:0, Fox Sports 2 Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXSP2_MX_HD&token=654123_2761.m3u8
+#EXTINF:0, Fox Sports 3 Mexico
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXSP3_MX_HD&token=654123_2762.m3u8
+#EXTINF:0, Fox Sports 1 US
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2780.m3u8
+#EXTINF:0, Fox Sports 2 US
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2781.m3u8
+#EXTINF:0, NFL Network
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2088.m3u8
+#EXTINF:0, Motors TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2787.m3u8
+#EXTINF:0, Premier Sports
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2779.m3u8
+#EXTINF:0, PX Sports
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2084.m3u8
+#EXTINF:0, RedBull TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2089.m3u8
+#EXTINF:0, Sky Premier League
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2774.m3u8
+#EXTINF:0, Sky Sports Action
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2773.m3u8
+#EXTINF:0, Sky Sports Arena
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2771.m3u8
+#EXTINF:0, Sky Sports F1
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2775.m3u8
+#EXTINF:0, Sky Sports Football
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2772.m3u8
+#EXTINF:0, Sky Sport MotoGP
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2782.m3u8
+#EXTINF:0, TSN
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2788.m3u8
+#EXTINF:0, TSN2
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2789.m3u8
+#EXTINF:0, TDN
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/146.m3u8
+#EXTINF:0, TVC Deportes
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2755.m3u8
+#EXTINF:0, Univision TDN
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/130.m3u8
+#EXTINF:0, WIN Sports HD
+#EXTVLCOPT:network-caching=1000
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=WINSPORTS_HD&token=654123_1452.m3u8
+#EXTINF:0, WWE Network
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2778.m3u8
+#EXTINF:0, WWE TV
+#EXTVLCOPT:network-caching=1000
+http://www.iptvmexico.xyz/pony2/2790.m3u8
+#EXTINF:0,,UNIVISION DEPORTES USA
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.xyz/,UNIVISION%20DEPORTES%20USA
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.39:8000/live/edrust.eg/pOZzAwejMA/1400.m3u8
+#EXTINF:0,UNIVISION HD
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.39:8000/live/edrust.eg/pOZzAwejMA/1393.m3u8
+#EXTINF:0,UNIVISION TDN
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.39:8000/live/edrust.eg/pOZzAwejMA/1389.m3u8
